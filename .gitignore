@@ -1,0 +1,15 @@
+# Ignore dataset
+../data/creditcard.csv
+
+# Ignore Jupyter/IPython cache
+__pycache__/
+.ipynb_checkpoints/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore virtual environments
+venv/
+env/
+
